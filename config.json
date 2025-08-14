@@ -6,7 +6,7 @@
     "apps": [
       {
         "app_key": "wal", 
-        "enabled": false,
+        "enabled": true,
         "title": "Walktober will be back soon!(Test)",
         "content": "Walktober is currently down for routine maintenance."
       },
