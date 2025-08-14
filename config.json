@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "force_enable_all": true,
+    "force_enable_all": false,
     "title": "We'll be back soon!(Test)",
     "content": "We're currently down for routine maintenance.",
     "apps": [
